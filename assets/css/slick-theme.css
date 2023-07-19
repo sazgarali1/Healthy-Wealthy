@@ -39,19 +39,19 @@
 
     cursor: pointer;
 
-    color: transparent;
+    color: blue;
     border: none;
     outline: none;
-    background: transparent;
+    background: blue;
 }
 .slick-prev:hover,
 .slick-prev:focus,
 .slick-next:hover,
 .slick-next:focus
 {
-    color: transparent;
+    color: blue;
     outline: none;
-    background: transparent;
+    background: blue;
 }
 .slick-prev:hover:before,
 .slick-prev:focus:before,
